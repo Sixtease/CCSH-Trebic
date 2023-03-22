@@ -1,0 +1,4 @@
+<dl class="bibq">
+  <dt>[% post.bibq.code %]</dt>
+  <dd class="show-switch-container show-switch-state-hidden"><button data-role="show-switch"><span class="show-switch-label show-switch-turn-on">zobrazit</span><span class="show-switch-label show-switch-turn-off">skrýt</span></button><a target="_blank" href="[% post.bibq.link %]">další překlady</a><p class="show-switch-content">[% post.html %]</p></dd>
+</dl>
